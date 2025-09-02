@@ -1,1 +1,14 @@
 # Supply-Chain-Analytics-Dashboard
+## What is Supply Chain Analytics?
+Supply Chain Analytics is the process of collecting and analysing data based on the Supply chain using conventional Data Analytics techniques, methodologies, and tools used in Data Analytics to make the Supply Chain more efficient and more profitable with optimal utilisation of costs and resources.
+## Why Supply Chain Analytics?
+According to IBM, supply chains typically generate massive amounts of data. Supply chain analytics helps to make sense of all this data by uncovering patterns and generating insights. These insights can help organizations improve the quality, delivery, customer experience—and ultimately, profitability of their products.
+## Why Dashboarding/reporting of Supply Chain Data?
+Dashboarding/Reporting of data provides real-time visibility, patterns, and percentage shares, which enables faster and more informed decision-making.
+
+Thus, the primary objective of this project is to present the visual representation of the supply chain data to provide better decision-making, which can be used at the business level.
+## Overview:
+In this project, I used Microsoft Power BI Desktop to make the dashboard, where I have used multiple charts and graphs along with a decomposition tree for better and detailed visual representation of data.
+The icons (icon 1.png, icon 2.png, icon 3.png) are not just icons but have been made into action buttons for navigating through the pages.
+### Page 1 (
+
